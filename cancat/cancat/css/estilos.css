@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Holyfat';
+    src: url(../multimedia/Holyfat.ttf);
+}
+.btn-light {
+    --bs-btn-color: #0eea50 !important;
+}
+.parrafo{
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  font-size: 20px;
+  
+
+
+    
+}
+.navbar-nav{
+   
+    font-family: 'Holyfat' ;
+    font-size: 45px;
+    display: flex;
+    gap: 2rem;
+    
+    
+}
+.nav-link{
+    color: #0eea50;
+    background-color: rgb(255, 255, 255);
+}
+.titu{
+    color: #0eea50;font-size: 35px;
+
+    
+}
+.parrafo12{
+    color: #0e99ea;
+    font-size: 25px;
+    
+}
+.parrafo121{
+    color: #0e99ea;
+    font-size: 20px;
+    
+}
+
+.opacy {
+    background-color: rgba(255, 255, 255, 0.6); 
+}
+
+.objeti {
+    color: #0eea50;
+    font-family: 'Holyfat';
+    font-size: 45px;
+    text-align: center;
+    position: relative; 
+    z-index: 1; 
+}
+
+
+
+
+.boton{
+    background-color: #0eea50;
+    font-family: 'Holyfat' ;
+    color: #ffffff;
+    font-size: 45px;
+    border-radius: 50%;
+    width: 250px;
+    border: 1px solid #0eea50; 
+    margin-left: 141px;
+    
+  
+}
+.parrafo121{
+    background-color: rgb(14, 234, 80, 0.8);
+    color: #ffffff;
+   
+}
+.parrafo1211{
+    background-color: rgb(14, 234, 80, 0.8);
+    color: #ffffff;
+   
+}
+.img11{
+    text-align: center;
+    background-color: #ffffff;
+    position: relative; 
+    z-index: 1; 
+    background-color: rgba(255, 255, 255, 0.6);
+    
+}
+.collapse{
+    margin-left: 69px;
+}
+
